@@ -1,0 +1,2 @@
+C:\Users\stoic\Documents\Github\C-Practice\Learning\Binary Search Tree\Debug\Binary Search Tree.exe
+C:\Users\stoic\Documents\Github\C-Practice\Learning\Binary Search Tree\Debug\Binary Search Tree.pdb

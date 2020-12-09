@@ -1,0 +1,2 @@
+C:\Users\stoic\Documents\Github\C-Practice\Learning\Sample\Debug\Sample.exe
+C:\Users\stoic\Documents\Github\C-Practice\Learning\Sample\Debug\Sample.pdb

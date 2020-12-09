@@ -1,0 +1,2 @@
+C:\Users\stoic\Documents\Github\C-Practice\Learning\Doubly Linked List\Debug\Double_Linked_List.exe
+C:\Users\stoic\Documents\Github\C-Practice\Learning\Doubly Linked List\Debug\Double_Linked_List.pdb

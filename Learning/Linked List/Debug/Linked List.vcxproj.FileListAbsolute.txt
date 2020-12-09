@@ -1,0 +1,2 @@
+C:\Users\stoic\Documents\Github\C-Practice\Learning\Linked List\Debug\Linked List.exe
+C:\Users\stoic\Documents\Github\C-Practice\Learning\Linked List\Debug\Linked List.pdb
